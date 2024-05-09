@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Paytm Wallet Project using React for Fronted and node for backand**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Nextjs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
