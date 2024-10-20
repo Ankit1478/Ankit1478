@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit1478&label=Profile%20views&color=0e75b6&style=flat" alt="ankit1478" /> </p>
 
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Golang**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
