@@ -21,7 +21,6 @@ I learn in public — most of my repos start as "how does this actually work?" a
 | [LLM_AS_JUDGE](https://github.com/Ankit1478/LLM_AS_JUDGE) | LLM evaluation projects, starting with an LLM-as-a-Judge contract |
 | [evals-prod](https://github.com/Ankit1478/evals-prod) | Production-style LLM evals |
 | [Hermes-agents](https://github.com/Ankit1478/Hermes-agents) | AI agent experiments |
-| [LLM-Internals](https://github.com/Ankit1478/LLM-Internals) | Exploring how LLMs work under the hood |
 
 
 Always open to talking about inference, evals, and agent security — reach out on LinkedIn or X.
