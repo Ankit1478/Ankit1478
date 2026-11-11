@@ -23,19 +23,5 @@ I learn in public — most of my repos start as "how does this actually work?" a
 | [Hermes-agents](https://github.com/Ankit1478/Hermes-agents) | AI agent experiments |
 | [LLM-Internals](https://github.com/Ankit1478/LLM-Internals) | Exploring how LLMs work under the hood |
 
-## Open source
-
-- [msoedov/agentic_security](https://github.com/msoedov/agentic_security) — LLM vulnerability scanner / AI red-teaming kit (merged PRs)
-- [regolith-insights/Scraper](https://github.com/regolith-insights/Scraper) — merged PR
-
-## Tech
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-
----
 
 Always open to talking about inference, evals, and agent security — reach out on LinkedIn or X.
