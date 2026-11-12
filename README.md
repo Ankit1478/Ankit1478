@@ -1,6 +1,6 @@
 # Hi, I'm Ankit Raj
 
-AI Engineer India, working on **LLM inference, evals, and AI agent security**.
+AI Engineer working on **LLM inference, evals, and AI agent security**.
 I learn in public — most of my repos start as "how does this actually work?" and turn into notes, experiments, and tools.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ankit1478-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit1478)
